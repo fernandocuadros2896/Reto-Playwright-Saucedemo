@@ -19,7 +19,6 @@ Aplicando el patrón de diseño Page Object Model (POM).
 - Page Object Model (POM)
 - IntelliJ IDEA
 
----
 
 ## Estructura del proyecto
 
@@ -30,7 +29,6 @@ steps/     -> Step Definitions
 support/   -> Hooks
 ```
 
----
 
 ## Escenarios cubiertos
 
@@ -46,13 +44,11 @@ support/   -> Hooks
 - Visualizar producto en el carrito
 - Completar compra exitosamente
 
----
 
 ## Patrón de diseño aplicado
 
 Se utilizó el patrón Page Object Model (POM) para separar la lógica de interacción con la interfaz de usuario de los pasos definidos en Cucumber.
 
----
 
 ## Estrategia de automatización
 
@@ -63,7 +59,6 @@ La automatización se enfocó en cubrir los siguientes flujos críticos:
 - Gestión del carrito de compras
 - Proceso completo de compra
 
----
 
 ## Instalación
 
@@ -71,8 +66,6 @@ La automatización se enfocó en cubrir los siguientes flujos críticos:
 npm install
 npx playwright install
 ```
-
----
 
 ## Ejecución de pruebas
 
