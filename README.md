@@ -10,8 +10,6 @@ Este proyecto contiene una suite de pruebas automatizadas para la aplicación we
 
 Aplicando el patrón de diseño Page Object Model (POM).
 
----
-
 ## Tecnologías utilizadas
 
 - JavaScript
