@@ -1,4 +1,4 @@
-Feature: reto en SauceDemo
+Feature: SauceDemo Login
 
   Scenario: Login exitoso
     Given el usuario abre la pagina de SauceDemo
